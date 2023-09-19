@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+ }
+
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+
+body{
+  /* font-family: 'Arimo', sans-serif; */
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
+}

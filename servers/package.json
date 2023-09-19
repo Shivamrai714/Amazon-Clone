@@ -1,0 +1,28 @@
+{
+  "name": "amazon_clone",
+  "version": "1.0.0",
+  "description": "An amazon e-commerce stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "let's",
+    "shop!"
+  ],
+  "author": "ayush shivam harsh madhwan",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie": "^0.5.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^5.3.0",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22",
+    "parser": "^0.1.4",
+    "validator": "^13.9.0"
+  }
+}
